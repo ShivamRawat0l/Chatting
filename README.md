@@ -1,5 +1,5 @@
 # Chatting
-<h4>This is a basci application which can be used to chat with a different computer</h4>
+<h4>This is a basic application which can be used to chat with a different computer</h4>
 
 #How to use it ? 
 <h4>Run the server.py on the main computer and client.py on the client computers</h4>
